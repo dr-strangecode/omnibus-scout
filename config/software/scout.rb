@@ -2,7 +2,7 @@
 #
 
 name "scout"
-version "5.6.9"
+version "5.8.3"
 
 dependency "ruby"
 dependency "rubygems"
